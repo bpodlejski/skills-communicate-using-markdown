@@ -8,4 +8,4 @@ test2
 
 ## Image!!
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Octocat](https://octodex.github.com/images/yaktocat.png)
